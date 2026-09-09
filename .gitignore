@@ -1,0 +1,10 @@
+build/
+*.o
+*.d
+*.out
+*.exe
+game
+raycasting
+.idea/
+.vscode/
+.DS_Store
